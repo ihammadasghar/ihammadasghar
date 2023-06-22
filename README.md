@@ -1,5 +1,5 @@
-Hi! I'm Hammmad, I'm a Computer Engineering student at Universidade Autonoma de Lisboa. 
-I mainly work with python, django and javascript.
+Hi! I'm Hammmad, I'm a Computer Science and Engineering student at Universidade Autonoma de Lisboa. 
+My passion lies in software development and problem solving.
 Reach me through:
   - Gmail: ihammadasghar@gmail.com
   - LinkedIn: https://www.linkedin.com/in/hammad-asghar-1b6227210/
